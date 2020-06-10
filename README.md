@@ -8,7 +8,7 @@ Benchmark documentation can be [found here](https://www.npmjs.com/package/benchm
 git clone https://github.com/nkhil/benchmark-js.git
 cd benchmark-js
 npm install
-node example #run the example from the benchmark documentation
+node example.js #run the example from the benchmark documentation
 ```
 
 ## Background
